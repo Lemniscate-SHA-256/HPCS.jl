@@ -1,0 +1,4 @@
+name = "HPCS"
+uuid = "31f58115-fe9a-445c-85c2-e51140560cff"
+authors = ["Lemniscate <Lemniscate_zero@proton.me>"]
+version = "0.1.0"
