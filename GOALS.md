@@ -1,3 +1,12 @@
+29 01 25
+
+- Create Project and add Dependencies
+  - Pkg.add("Distributed")
+    Pkg.add("LinearAlgebra")
+    Pkg.add("BenchmarkTools")
+    Pkg.add("Plots")
+(Done)
+
 - Use Julia's multi-threading capabilities to simulate shared-memory parallelism (e.g., multi-core CPUs).
 
 - Use the Distributed standard library to simulate distributed memory systems.
